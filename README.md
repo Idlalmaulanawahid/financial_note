@@ -32,7 +32,7 @@ dart --version
 ### 1. Clone Repository
 ```bash
 git clone <repository-url>
-cd note_money
+cd financial_privacy
 ```
 
 ### 2. Install Dependencies
