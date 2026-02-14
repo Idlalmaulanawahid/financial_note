@@ -4,7 +4,7 @@ class AppConstants {
   static const String appName = 'Financial Privacy';
   static const String appVersion = '1.0.0';
   static const String buildNumber = '1';
-  static const String dbName = 'financial_privacy.db';
+  static const String dbName = 'note_money.db';
   static const int dbVersion = 1;
 
   // Table names

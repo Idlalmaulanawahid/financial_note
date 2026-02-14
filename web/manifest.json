@@ -1,6 +1,6 @@
 {
-    "name": "financial_privacy",
-    "short_name": "financial_privacy",
+    "name": "note_money",
+    "short_name": "note_money",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

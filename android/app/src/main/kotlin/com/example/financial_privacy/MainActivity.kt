@@ -1,4 +1,4 @@
-package com.financial_privacy
+package com.notemoney
 
 import io.flutter.embedding.android.FlutterActivity
 
